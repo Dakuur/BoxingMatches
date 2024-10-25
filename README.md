@@ -1,2 +1,2 @@
 # BoxingMatches
-Perfect-matching algorythm for sports events
+Perfect-matching algorithm for sports events
